@@ -1,0 +1,165 @@
+.parent{
+    display: flex;
+    gap: 50px;
+    margin:0 auto ;
+    padding: 0 auto;
+}
+.curve{
+    c
+    
+}
+
+.parent{
+    background-color: rgb(238, 233, 233);
+}
+*{
+    margin: 15px;
+    border-radius: 10px;
+}
+.foot{
+    display: flex;
+}
+.foot2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blog{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+*{
+    margin: 20px 20px 2px 20px;
+    border-radius: 10px;
+}
+
+#blog {
+    background-color: green;
+    padding: 15PX 10PX 15PX 10PX;
+    border-radius: 10px;
+    color: white;
+}
+.parent{
+    background-color: rgb(180, 243, 56);
+    display:flex;
+    justify-content:center
+
+    margin:50px;
+    
+}
+#text{
+    text-align:justify;
+}
+.parent3{
+    display: flex;
+
+}
+.parent2{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+.button1{
+    background-color: blue;
+    padding: 10px 5px 10px 5px;
+    border-radius: 10px;
+    width: 120px;
+    color: white;
+}
+.button2{
+    background-color:green;
+    padding: 10px 5px 10px 5px;
+    border-radius: 10px;
+    width: 120px;
+    color: white;
+}
+.button3{
+    background-color:rgb(234, 192, 113);
+    padding: 10px 5px 10px 5px;
+    border-radius: 10px;
+    width: 120px;
+    color: white;
+}
+.image2{
+    background-color: rgb(216, 191, 239);
+    
+
+}
+.image3{
+    background-color: rgb(96, 126, 96);
+    
+}
+.image4{
+    background-color:rgb(157, 157, 2) ;
+    
+}
+.first1{
+    background-color:rgb(200, 197, 197);
+}
+.first2{
+    background-color: rgb(200, 197, 197);
+}
+.first3{
+    background-color:rgb(200, 197, 197) ;
+}
+.first4{
+    background-color: rgb(200, 197, 197) ;
+}
+    
+.parent3{
+    gap: 20px;
+}
+.banner{
+    width:300px ;
+    ;
+}
+.parentt{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(186, 180, 180);
+}
+.taka{
+    display: flex;
+    margin: 0;
+    padding: auto,0;
+    align-items: center;
+    justify-content: center;
+}
+.rss{
+    background-color: green;
+}
+.rs{
+    background-color: grey;
+
+    padding: 15PX 10PX 15PX 10PX;
+    border-radius: 10px;
+    color: white
+}
+.hed{display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.textt{
+    align-items: center;
+    justify-content: center;
+}
+#box{
+    padding: 10PX 10PX 10pX 10PX;
+    border-radius: 5px;
+    margin:0;
+    width: 460px;
+    text-align: center;
+    
+}
+
+.box12{
+    border-radius: 10%;
+    width: 200px;
+}
+.mom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
